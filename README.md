@@ -6,4 +6,4 @@ This is just a demo website. It's super cool.
 * start hacking
 
 # Viewing Project
-* coming soon
+* [Check it out here](http://nycda.zone/jason44/nycda-github-demo/)
